@@ -4,19 +4,10 @@ NBXlite is fork of InsanityBringer's NoBiomesX.
 SSPC is a fork of simo_415's Single Player Commands 3.2.2.
 Everything in src/client/spc, bin/spc-* and bin-old/spc-* is licenced under GNU LGPLv3.
 
-To set this up:
+This Repository is for people to have access to the Old Days 1.6.4 releases.
+They are not obtainable anymore because the downloads do not work.
+So I recompiled the 1.6.4 source code using this: https://github.com/gus33000/Minecraft-mods/tree/universal-scripts
 
-1.  Download MCP.
+All credit goes to Exalm and his team. I just recompiled it.
 
-2.  Decompile client using MCP.
-
-3.  Clone this repository to **src-mods** directory.
-
-4.  Go to **src-mods/build** and run **deploy.sh** script. (Or **deploy.bat** if you use Windows)
-
-5.  It is ready. You may now recompile client and start it.
-
-To build a release, run **make.sh** script **in the MCP directory**. Not from src-mods/build!
-Resulting zips will be in **reobf/result2**.
-
-build/ln.exe source code can be found here: https://github.com/neosmart/ln-win
+Permdog99
