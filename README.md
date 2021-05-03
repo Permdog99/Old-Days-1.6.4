@@ -11,3 +11,5 @@ So I recompiled the 1.6.4 source code using this: https://github.com/gus33000/Mi
 All credit goes to Exalm and his team. I just recompiled it.
 
 Permdog99
+
+Also here is a mod review I did on my YouTube Channel: https://youtu.be/NuOhX0IOLaY
