@@ -1,3 +1,0 @@
-EntityLiving
-EntityLivingBase
-ItemRenderer

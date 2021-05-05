@@ -1,2 +1,0 @@
-olddays/lang
-olddays/presets

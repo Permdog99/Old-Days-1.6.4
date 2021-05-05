@@ -1,4 +1,0 @@
-EntityHuman
-ModelHuman
-RenderHuman
-mod_SpawnHuman
