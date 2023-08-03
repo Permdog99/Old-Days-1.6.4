@@ -7,5 +7,3 @@ But Spyro has a fix.
 I put his versions of Old Days in here.
 
 Permdog99
-
-Also here is a mod review I did on my YouTube Channel: https://youtu.be/NuOhX0IOLaY
